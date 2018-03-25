@@ -1,6 +1,7 @@
 # OpenStack Based Lab Environment
 This project is sponsored by the National Security Agency under Grant Number H98230-17-1-0352. 
-**Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Security Agency."
+
+**Disclaimer**: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Security Agency."
 
 # Project Resources
 The project creates an innovative lab infrastructure at the UMSL and also helps other institutions create similar lab infrastructures by providing various resources such as best practices, sample labs, ready made virtual machine images, etc.
